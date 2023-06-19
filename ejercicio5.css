@@ -1,0 +1,54 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+.p_green {
+    color: green;
+    text-decoration: underline;
+}
+
+.p1_red {
+    color: red;
+
+}
+
+.p_blue {
+    color: blue;
+}
+
+.p_red {
+    color: red;
+    text-decoration: underline;
+}
+
+.p_large {
+    font-size: 30px;
+}
+
+.left {
+    text-align: left;
+}
+
+.subrayado {
+    text-decoration: underline overline;
+}
+
+.p {
+    line-height: 50px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.centered-left {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 700px;
+}
